@@ -33,4 +33,4 @@
 - Matching of Contours
 
 ## Project : **Live Sketch Project**
-<img src="https://github.com/ammy20019/Computer-Vision/opencv_certificate.png">
+<img src="https://github.com/ammy20019/Computer-Vision/opencv_certificate.jpg">
